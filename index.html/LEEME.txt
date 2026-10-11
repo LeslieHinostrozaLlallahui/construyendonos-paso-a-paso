@@ -1,0 +1,7 @@
+CONSTRUYÉNDONOS — página web inicial
+
+1. Abre index.html en tu navegador para ver la página.
+2. Antes de publicarla, reemplaza hola@tudominio.com por tu correo real.
+3. Los tres ensayos actuales son ejemplos de diseño: cambia sus títulos, textos y enlaces por tus ensayos reales.
+4. Para publicar gratis, puedes usar GitHub Pages o Netlify. Sube index.html y sigue las instrucciones de publicación de la plataforma.
+5. Esta es una página estática: el formulario abre la aplicación de correo del visitante; no almacena correos ni publica ensayos automáticamente. Para administrar ensayos desde un panel, conectar una lista de suscripción o usar tu propio dominio, necesitarás configurar servicios adicionales.
